@@ -5,7 +5,7 @@ This collection of libraries was developed and has grown over the period of appr
 
 - Imageprocessing effects and filters
 - Polygon drawing and analysis
-- Stringbuffer Storage System
+- The Simplebuffer System
 - LZW packing and unpacking
 - MD5 and SHA2 hash generation
 - DES-56 encryption and decryption
