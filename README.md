@@ -1,6 +1,8 @@
 # A collection of useful libraries for QB64
 This collection of libraries was developed and has grown over the period of approximately one decade. Most of the libraries were created out of my own need for a particular purpose, but as many of it are of common use, I've decided to put this collection together for everybody.
 
+>**These libraries work with every QB64 version since v0.954, so if you're one of these normal people who not update to the latest build every week, that's not a problem. Just use whatever QB64 version you've installed, as long it's greater or equal to the 0.954 version. This also includes all [Phoenix Edition](https://github.com/QB64-Phoenix-Edition/QB64pe/releases) versions.**
+
 **The main parts are:**
 
 - Imageprocessing effects and filters
@@ -11,6 +13,15 @@ This collection of libraries was developed and has grown over the period of appr
 - DES-56 encryption and decryption
 - several wrappers to standard library functions
 
-#### Download the latest Release August/2022 right here: [QB64Library.7z](https://github.com/RhoSigma-QB64/QB64Library/raw/main/QB64Library.7z)
+#### Download the latest Release November/2022 right here: [QB64Library.7z](https://github.com/RhoSigma-QB64/QB64Library/raw/main/QB64Library.7z)
 
->**Make sure to move the extracted QB64Library folder with its entire contents into your QB64 folder (where qb64.exe is). You find an overview of all libraries in the QB64Library-Info.html file.**
+>**Make sure to move the extracted QB64Library folder with its entire contents into your QB64 installation folder. You find an overview of all libraries in the QB64Library-Info.html file.**
+
+<br>
+
+# Some examples which use the Polygon library
+![PolygonTest](images/PolyTest.png)
+<br><br>
+![3dFunc-1](images/3dFunc-1.png)
+<br><br>
+![3dFunc-2](images/3dFunc-2.png)
