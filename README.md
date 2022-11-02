@@ -9,6 +9,7 @@ This collection of libraries was developed and has grown over the period of appr
 - Polygon drawing and analysis
 - The Simplebuffer System
 - LZW packing and unpacking
+- Base64 encoding and decoding
 - MD5 and SHA2 hash generation
 - DES-56 encryption and decryption
 - several wrappers to standard library functions
