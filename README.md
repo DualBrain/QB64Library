@@ -14,7 +14,7 @@ This collection of libraries was developed and has grown over the period of appr
 - DES-56 encryption and decryption
 - several wrappers to standard library functions
 
-#### Download the latest Release November/2022 right here: [QB64Library.7z](https://github.com/RhoSigma-QB64/QB64Library/raw/main/QB64Library.7z)
+#### Download the latest Release December/2022 right here: [QB64Library.7z](https://github.com/RhoSigma-QB64/QB64Library/raw/main/QB64Library.7z)
 
 >**Make sure to move the extracted QB64Library folder with its entire contents into your QB64 installation folder. You find an overview of all libraries in the QB64Library-Info.html file.**
 
